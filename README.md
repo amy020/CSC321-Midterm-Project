@@ -19,4 +19,4 @@ Home Page -- Display introduction, hero section, and navigation bar
 About Page -- Present a biography, education, and list of skills
 Projects Page -- Display featured projects with short descriptions and links
 
-https://amy020.github.io/CSC321-Midterm-Project/
+(https://amy020.github.io/CSC321-About-me/)
